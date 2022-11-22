@@ -1,6 +1,6 @@
 # Olá, me chamo Matheus Henrique!
 
-<p> Full stack developer ( <a target="_blank" href="https://www.w3schools.com/cs/index.php"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="figma" width="40" height="40" /></a> ) em formação.</p> 
+<p> Full stack developer em formação, no momento aprendendo C#.</p> 
 
 <hr>
 
